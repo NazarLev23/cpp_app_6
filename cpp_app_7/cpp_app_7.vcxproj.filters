@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="main1">
+      <UniqueIdentifier>{726cd0a2-59f1-4e5f-9b6d-9db1cb7a8ce5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main1.cpp">
+      <Filter>main1</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
